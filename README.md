@@ -4,12 +4,12 @@ Clément GHANEME - 09/2024
 
 ## Overview
 
-**PySentinel** is a comprehensive system monitoring tool designed to monitor **CPU**, **RAM**, **Disk**, **GPU**, and **network usage** in real-time. It supports configurable thresholds and generates alert emails when predefined limits are exceeded. The application also provides detailed resource usage graphs and email reports.
+**PySentinel** is a comprehensive system monitoring tool designed to monitor **CPU**, **RAM**, **GPU**, and **network usage** in real-time. It supports configurable thresholds and generates alert emails when predefined limits are exceeded. The application also provides detailed resource usage graphs and email reports.
 
 ## Features
 
 - **System Resource Monitoring**:  
-  - Monitor CPU, RAM, Disk, GPU, and network activity.
+  - Monitor CPU, RAM, GPU, and network activity.
   - Customizable thresholds for each monitored resource.
   
 - **Real-time Graphs**:  
