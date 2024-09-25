@@ -33,3 +33,8 @@ Clément GHANEME - 09/2024
 ```bash
 git clone https://github.com/your-username/PySentinel.git
 cd PySentinel
+
+## Footnote
+
+- **Version V038**: Drive threshold notifications were functioning correctly, but other notifications (CPU, RAM, network) were not working.
+- **Version V046**: All notifications (CPU, RAM, network) are now working, but drive notifications are currently not functioning. The cause of this issue is still under investigation.
